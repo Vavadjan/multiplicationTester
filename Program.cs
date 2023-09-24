@@ -14,8 +14,8 @@
 
             for (int i = 0; i >= 0; i++)
             {
-                int firstNumber = fN.Next(10);
-                int secondNumber = sN.Next(10);
+                int firstNumber = fN.Next();
+                int secondNumber = sN.Next();
 
                 result = firstNumber * secondNumber;
 
