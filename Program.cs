@@ -19,7 +19,7 @@
 
                 result = firstNumber * secondNumber;
 
-                Console.WriteLine("Сколько будет " + firstNumber + " * " + secondNumber);
+                Console.WriteLine("Сколько будет " + firstNumber + " * " + secondNumber + " ?");
 
                 for (int q = 1; q >= 0 ; q++)
                 {
